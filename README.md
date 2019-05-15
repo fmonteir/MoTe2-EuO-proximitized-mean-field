@@ -1,4 +1,5 @@
-# tmd-nanoribbon-mean-field
+# MoTe2-EuO-proximitized-mean-field
+
 A C++ code that solves a minimal mean field Hubbard model of a transition metal dichalcogenide nanoribbon MoTe2-EuO proximitized structure.
 
 ## Getting Started
